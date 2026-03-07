@@ -27,7 +27,7 @@ It combines study tools, AI assistance, and task management — all built for fo
 
 - 5-in-1 AI-powered dashboard  
 - Visual study and career roadmaps  
-- Smart code review and learning support  
+- Smart code review and learning support   
 - Simple planner with focus tools  
 
 ---
